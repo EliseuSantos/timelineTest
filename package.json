@@ -1,8 +1,7 @@
 {
-  "name": "socialc",
+  "name": "TimelineTest",
   "version": "1.0.0",
-  "description": "Mini rede social com VueJs",
-  "author": "Wesley S. Araújo <wsadesigner@gmail.com>",
+  "description": "TimelineTest",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
