@@ -2,7 +2,7 @@
 
 > Timeline em Vuejs
 
-![alt text](https://raw.githubusercontent.com/EliseuSantos/timelineTest/master/static/img/timeline.png)
+![alt text](https://raw.githubusercontent.com/EliseuSantos/timelineTest/develop/static/img/timeline.png)
 
 Esse repositório é um objeto de teste para prova da paggcerto de frontEnd
 
